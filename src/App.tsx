@@ -22,7 +22,7 @@ function App() {
           All Books
         </Link>
         <Link to="/add" className={linkClass("/add")}>
-          Add Book
+          Create book
         </Link>
         <Link to="/borrows" className={linkClass("/borrows")}>
           Borrow Summary
