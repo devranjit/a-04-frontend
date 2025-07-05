@@ -15,7 +15,9 @@ function BorrowBook() {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const dispatch = useDispatch();
-  const isModalOpen = useSelector((state: RootState) => state.ui.isDeleteModalOpen);
+  const isModalOpen = useSelector(
+    (state: RootState) => state.ui.isDeleteModalOpen
+  );
 
   const { data: book, isLoading, isError } = useGetBookQuery(id!);
   const [borrowBook] = useBorrowBookMutation();
@@ -71,7 +73,6 @@ function BorrowBook() {
       toast.error(`Quantity cannot exceed available copies (${book.copies}).`);
       return;
     }
-
     if (!dueDate) {
       toast.error("Please select a due date.");
       return;
@@ -132,7 +133,6 @@ function BorrowBook() {
         </button>
       </form>
 
-      
       {isModalOpen && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
           <div className="bg-white p-6 rounded shadow-lg max-w-sm w-full">

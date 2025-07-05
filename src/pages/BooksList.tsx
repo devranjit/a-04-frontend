@@ -124,7 +124,7 @@ function BooksList() {
         ))}
       </div>
 
-      {/* Delete Confirmation Modal */}
+      
       {isDeleteModalOpen && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
           <div className="bg-white p-6 rounded shadow-lg max-w-sm w-full">
