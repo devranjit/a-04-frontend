@@ -1,0 +1,18 @@
+[
+  {"title":"The Quantum Paradox","author":"Evelyn Harper","genre":"SCIENCE","isbn":"978-0-123456-01-0","description":"A thrilling dive into quantum mechanics and its mind-bending implications for reality.","copies":5,"available":true},
+  {"title":"Echoes of the Ancients","author":"Liam Bennett","genre":"FICTION","isbn":"978-0-123456-02-7","description":"A captivating historical novel unraveling secrets lost to time.","copies":7,"available":true},
+  {"title":"Code of Shadows","author":"Samantha Rivers","genre":"FICTION","isbn":"978-0-123456-03-4","description":"A cyber-thriller that blends suspense with modern technology.","copies":4,"available":true},
+  {"title":"The Cosmic Tapestry","author":"Jonathan Reed","genre":"SCIENCE","isbn":"978-0-123456-04-1","description":"An exploration of space, time, and the wonders of our universe.","copies":6,"available":true},
+  {"title":"Beneath Crimson Skies","author":"Isabella Clarke","genre":"FICTION","isbn":"978-0-123456-05-8","description":"A wartime love story set against breathtaking landscapes.","copies":3,"available":true},
+  {"title":"Neural Horizons","author":"Dr. Victor Patel","genre":"SCIENCE","isbn":"978-0-123456-06-5","description":"Insights into artificial intelligence and the future of the mind.","copies":8,"available":true},
+  {"title":"The Hidden Cartographer","author":"Amelia Brooks","genre":"HISTORY","isbn":"978-0-123456-07-2","description":"An adventurous journey across forgotten maps and ancient lands.","copies":5,"available":true},
+  {"title":"Ocean’s Whisper","author":"Daniel Moore","genre":"FICTION","isbn":"978-0-123456-08-9","description":"A mesmerizing tale of mystery, love, and the depths of the sea.","copies":6,"available":true},
+  {"title":"The Timekeeper’s Legacy","author":"Grace Sinclair","genre":"FICTION","isbn":"978-0-123456-09-6","description":"A gripping saga of time, fate, and intertwined destinies.","copies":4,"available":true},
+  {"title":"The Genetic Blueprint","author":"Dr. Elena Chen","genre":"SCIENCE","isbn":"978-0-123456-10-2","description":"A deep dive into the marvels and ethics of genetic engineering.","copies":5,"available":true},
+  {"title":"Rebels of Tomorrow","author":"Nathan Hayes","genre":"FICTION","isbn":"978-0-123456-11-9","description":"A dystopian adventure where hope battles oppression.","copies":7,"available":true},
+  {"title":"The Pharaoh’s Architect","author":"Sophia Grant","genre":"HISTORY","isbn":"978-0-123456-12-6","description":"The epic life of the genius behind Egypt’s greatest pyramids.","copies":5,"available":true},
+  {"title":"The Infinite Mind","author":"Dr. Raj Malhotra","genre":"SCIENCE","isbn":"978-0-123456-13-3","description":"Exploring consciousness, cognition, and the human brain’s secrets.","copies":6,"available":true},
+  {"title":"Canvas of Lies","author":"Olivia Knight","genre":"FICTION","isbn":"978-0-123456-14-0","description":"A fast-paced thriller where art and deception collide.","copies":4,"available":true},
+  {"title":"Chronicles of Steam","author":"Henry Caldwell","genre":"HISTORY","isbn":"978-0-123456-15-7","description":"A riveting account of the Industrial Revolution’s pioneers.","copies":5,"available":true},
+  {"title":"Beyond the Singularity","author":"Dr. Maria Solis","genre":"SCIENCE","isbn":"978-0-123456-16-4","description":"A visionary look at the future of humanity and technology.","copies":7,"available":true}
+]
