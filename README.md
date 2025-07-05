@@ -37,9 +37,4 @@ A fully functional library management system built with **React, Redux Toolkit Q
 
 ---
 
-## ⚙️ How to Run Locally
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-# a-04-frontend
