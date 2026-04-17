@@ -5,6 +5,7 @@ import BookDetail from "./pages/BookDetail";
 import BorrowSummary from "./pages/BorrowSummary";
 import BorrowBook from "./pages/BorrowBook";
 import EditBook from "./pages/editBook";
+import SafeZoneCalculator from "./pages/SafeZoneCalculator";
 import "./index.css";
 
 function App() {
@@ -27,6 +28,9 @@ function App() {
         <Link to="/borrows" className={linkClass("/borrows")}>
           Borrow Summary
         </Link>
+        <Link to="/safe-zone" className={linkClass("/safe-zone")}>
+          Safe Zone Calculator
+        </Link>
       </nav>
 
       <main className="p-4">
@@ -37,6 +41,7 @@ function App() {
           <Route path="/borrows" element={<BorrowSummary />} />
           <Route path="/borrow/:id" element={<BorrowBook />} />
           <Route path="/edit/:id" element={<EditBook />} />
+          <Route path="/safe-zone" element={<SafeZoneCalculator />} />
         </Routes>
       </main>
       <footer className="bg-gray-800 text-white text-center py-4 mt-8">
